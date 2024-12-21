@@ -2,9 +2,9 @@
 # Assignment 2: Play with a 2x2 Rubik Cube
 by 
 
-**NAME**:
+**NAME**: **MUHAMMAD HANIF SYAHMI BIN MOHD FITRI**
 
-**Matric ID**
+**Matric ID**: **2223305**
 
 ## Objective
 
